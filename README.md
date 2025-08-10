@@ -1,30 +1,29 @@
 # React + Vite
 
-# React First Project
+📝 React Form with Tailwind CSS
 
 A beginner-friendly React.js web application designed as a learning project to explore the fundamentals of building single-page applications using React.
 
 ## 🌐 Live Demo
-Check out the live website here:  
-👉 (https://react-first-project-lyart.vercel.app/)
+Check out the live React Form:  
+👉 (https://react-basic-form-theta.vercel.app/)
 
 ## 🚀 Features
+- 📱 Fully Responsive design for all screen sizes
+- 🎨 Styled with Tailwind CSS for a modern look
+- ✅ Form validation for required fields
+- ⚡ Built with ReactJS for dynamic UI updates
+- 🔄 Easy to customize and reuse
 
-- Clean and minimal user interface
-- Built entirely using React
-- Responsive layout
-- Beginner-focused React project structure
-- Deployed with Vercel
 
 ## 🛠️ Tech Stack
 
 - React.js
 - HTML5
-- CSS3
-- JavaScript (ES6+)
+- TailwindCSS 
 - Vercel (for deployment)
 
-🙋‍♂️ Author
+🙋‍♂️ React Form made by
 
 RAAJIV
 ✉️ Email :raajivraajiv@gmail.com
